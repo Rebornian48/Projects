@@ -18,5 +18,7 @@
 2. JKT48 Data Lagu
 3. JKT48 Restrukturisai
 4. Setlist Original
+5. JKT48 Member Sorter (halaman baru)
+6. JKT48 Setlist & Album Sorter
 ## Tidak Berhubungan dengan JKT48
 1. Aplikasi Walikan
