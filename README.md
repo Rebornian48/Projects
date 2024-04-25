@@ -3,6 +3,7 @@
 1. JKT48 Member Sorter (<https://rebornian48.github.io/jkt48sorter/>), kondisi saat ini belum diperbaharui
 2. JKT48 Member Sorter Lite Version (<https://rebornian48.github.io/jkt48sorterlite/>), kondisi saat ini belum diperbaharui, kemungkinan akan dihapus
 3. JKT48 Song Sorter (<https://rebornian48.github.io/jkt48songsorter/>), kondisi saat ini belum diperbaharui
+4. Setlist Original (<http://rebornian48.github.io/setlist-original/>)
 ## Aplikasi Iseng Terkait JKT48
 1. JKT48 My Page (<https://rebornian48.github.io/jktmypage/>), Generasi 12 akan diupdate sesegera mungkin, proses bisnis diperbaharui
 2. Waiting Room (<https://rebornian48.github.io/waitingroom/>)
@@ -17,8 +18,7 @@
 1. JKT48 Data Member
 2. JKT48 Data Lagu
 3. JKT48 Restrukturisai
-4. Setlist Original
-5. JKT48 Member Sorter (halaman baru)
-6. JKT48 Setlist & Album Sorter
+4. JKT48 Member Sorter (halaman baru)
+5. JKT48 Setlist & Album Sorter
 ## Tidak Berhubungan dengan JKT48
 1. Aplikasi Walikan
